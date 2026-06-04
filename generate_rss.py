@@ -6,13 +6,13 @@ import requests
 from email.utils import formatdate
 from xml.sax.saxutils import escape
 
-CHANNEL_ID = "288313"
+CHANNEL_ID = "287342"
 CHANNEL_URL = f"https://www.qtfm.cn/channels/{CHANNEL_ID}/"
 OUTPUT_FILE = "podcast.xml"
 
-FEED_TITLE = "晓声长谈 纯电话版"
+FEED_TITLE = "晓声长谈（蜻蜓FM频道287342）"
 FEED_LINK = CHANNEL_URL
-FEED_DESCRIPTION = "晓声长谈纯电话版自动生成 RSS 订阅源，仅用于个人订阅收听。"
+FEED_DESCRIPTION = "蜻蜓FM频道287342自动生成 RSS 订阅源，仅用于个人订阅收听。"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -130,6 +130,7 @@ def build_rss(programs):
     <description>{safe_text(FEED_DESCRIPTION)}</description>
     <language>zh-CN</language>
     <lastBuildDate>{safe_text(now)}</lastBuildDate>
+    <ttl>15</ttl>
     <itunes:author>蜻蜓 FM</itunes:author>
     <itunes:summary>{safe_text(FEED_DESCRIPTION)}</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
