@@ -14,6 +14,7 @@ OUTPUT_FILE = "podcast.xml"
 FEED_TITLE = "《晓声长谈》持续更新"
 FEED_LINK = CHANNEL_URL
 FEED_DESCRIPTION = "根据蜻蜓FM “《晓声长谈》持续更新” 频道自动生成 RSS 订阅源，仅用于个人订阅收听。"
+FEED_IMAGE = "https://upload-up.qtfm.cn/user/27279bada6117c48eaf08223b173aa28/1670412425_0001-1044643275.png"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -152,6 +153,12 @@ def build_rss(programs):
     <lastBuildDate>{safe_text(now)}</lastBuildDate>
     <ttl>15</ttl>
     <itunes:author>蜻蜓 FM</itunes:author>
+    <itunes:image href="{safe_text(FEED_IMAGE)}" />
+    <image>
+      <url>{safe_text(FEED_IMAGE)}</url>
+      <title>{safe_text(FEED_TITLE)}</title>
+      <link>{safe_text(FEED_LINK)}</link>
+    </image>
     <itunes:summary>{safe_text(FEED_DESCRIPTION)}</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
 {''.join(items)}
