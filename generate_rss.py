@@ -13,7 +13,7 @@ OUTPUT_FILE = "podcast.xml"
 
 FEED_TITLE = "《晓声长谈》持续更"
 FEED_LINK = CHANNEL_URL
-FEED_DESCRIPTION = "根据蜻蜓FM“《晓声长谈》持续更新”频道自动生成 RSS 订阅源，仅用于个人订阅收听。"
+FEED_DESCRIPTION = "根据蜻蜓FM “《晓声长谈》持续更新” 频道自动生成 RSS 订阅源，仅用于个人订阅收听。"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
