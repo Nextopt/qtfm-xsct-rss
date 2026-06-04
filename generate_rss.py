@@ -12,7 +12,7 @@ OUTPUT_FILE = "podcast.xml"
 
 FEED_TITLE = "晓声长谈（蜻蜓FM频道287342）"
 FEED_LINK = CHANNEL_URL
-FEED_DESCRIPTION = "蜻蜓FM频道287342自动生成 RSS 订阅源，仅用于个人订阅收听。"
+FEED_DESCRIPTION = "《晓声长谈》栏目是吉林新闻综合广播2008年7月创办的一档情感服务类栏目,节目的内容是“婚姻、家庭、情感”主持人钟晓用“唠实嗑”的方式为广大群众指点迷津，节目的口号是“和谐情感、和谐家庭、和谐生活” 蜻蜓FM频道287342自动生成 RSS 订阅源，仅用于个人订阅收听。"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
