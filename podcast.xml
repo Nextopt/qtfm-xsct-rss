@@ -3,313 +3,314 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>晓声长谈 纯电话版</title>
-    <link>https://www.qtfm.cn/channels/288313/</link>
-    <description>晓声长谈纯电话版自动生成 RSS 订阅源，仅用于个人订阅收听。</description>
+    <title>晓声长谈（蜻蜓FM频道287342）</title>
+    <link>https://www.qtfm.cn/channels/287342/</link>
+    <description>蜻蜓FM频道287342自动生成 RSS 订阅源，仅用于个人订阅收听。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Jun 2026 02:46:49 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:16:43 -0000</lastBuildDate>
+    <ttl>15</ttl>
     <itunes:author>蜻蜓 FM</itunes:author>
-    <itunes:summary>晓声长谈纯电话版自动生成 RSS 订阅源，仅用于个人订阅收听。</itunes:summary>
+    <itunes:summary>蜻蜓FM频道287342自动生成 RSS 订阅源，仅用于个人订阅收听。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
 
     <item>
-      <title>工作不顺心又不敢辞职</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11176414/</link>
-      <guid isPermaLink="false">qtfm-288313-11176414</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>工作不顺心又不敢辞职</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11176414?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=ecb70048e55d2fe830cb392bab5b46cc" type="audio/mpeg" length="0" />
-      <itunes:duration>611</itunes:duration>
+      <title>20190508  父女对簿公堂，关系该如何缓和？</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11800165/</link>
+      <guid isPermaLink="false">qtfm-287342-11800165</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190508  父女对簿公堂，关系该如何缓和？</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11800165?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=0f2dcf46d8e5cfcaeeea7e76c03652be" type="audio/mpeg" length="0" />
+      <itunes:duration>3937</itunes:duration>
     </item>
 
     <item>
-      <title>感情危机孩子成筹码</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11176157/</link>
-      <guid isPermaLink="false">qtfm-288313-11176157</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>感情危机孩子成筹码</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11176157?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=9f06664a654e7fb3588009b9c6151353" type="audio/mpeg" length="0" />
-      <itunes:duration>411</itunes:duration>
+      <title>20190102 媳妇瞒着我补贴娘家</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11061797/</link>
+      <guid isPermaLink="false">qtfm-287342-11061797</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190102 媳妇瞒着我补贴娘家</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11061797?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=fda87084e276917bae6de2fb0ae09b03" type="audio/mpeg" length="0" />
+      <itunes:duration>4696</itunes:duration>
     </item>
 
     <item>
-      <title>结婚到底该不该要彩礼</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182685/</link>
-      <guid isPermaLink="false">qtfm-288313-11182685</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>结婚到底该不该要彩礼</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182685?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=54a02b5921468dd585f46f8bff0367b9" type="audio/mpeg" length="0" />
-      <itunes:duration>321</itunes:duration>
+      <title>20190103 男子遇“真爱”，遭全家人反对</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062594/</link>
+      <guid isPermaLink="false">qtfm-287342-11062594</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190103 男子遇“真爱”，遭全家人反对</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062594?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=b7af13abdd18aa55804f7903abae77a2" type="audio/mpeg" length="0" />
+      <itunes:duration>4760</itunes:duration>
     </item>
 
     <item>
-      <title>女子还没离婚，却怀了别人的孩子</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182740/</link>
-      <guid isPermaLink="false">qtfm-288313-11182740</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>女子还没离婚，却怀了别人的孩子</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182740?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=c20e4128ce4fd98c8c907bf4b7db3c50" type="audio/mpeg" length="0" />
-      <itunes:duration>441</itunes:duration>
+      <title>20190104 神秘女友负债累累，该继续交往吗</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062638/</link>
+      <guid isPermaLink="false">qtfm-287342-11062638</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190104 神秘女友负债累累，该继续交往吗</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062638?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=93388a7b6bf9f92f9bc5c7ac688fa899" type="audio/mpeg" length="0" />
+      <itunes:duration>4443</itunes:duration>
     </item>
 
     <item>
-      <title>三面之缘，男友想冲进家门</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182772/</link>
-      <guid isPermaLink="false">qtfm-288313-11182772</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>三面之缘，男友想冲进家门</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182772?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=f919eaf0e785d31422b58701ccb3e270" type="audio/mpeg" length="0" />
-      <itunes:duration>503</itunes:duration>
+      <title>20190105 丈夫突然要求分房住</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062642/</link>
+      <guid isPermaLink="false">qtfm-287342-11062642</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190105 丈夫突然要求分房住</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062642?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=1bc785d380decaf1d53e909d870d026f" type="audio/mpeg" length="0" />
+      <itunes:duration>4609</itunes:duration>
     </item>
 
     <item>
-      <title>大学毕业后，先工作还是先考研</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182796/</link>
-      <guid isPermaLink="false">qtfm-288313-11182796</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>大学毕业后，先工作还是先考研</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182796?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=6af729bbdff9e9e7384b97733d298ecf" type="audio/mpeg" length="0" />
-      <itunes:duration>318</itunes:duration>
+      <title>20190106 老公斤斤计较，总发脾气怎么办？</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062646/</link>
+      <guid isPermaLink="false">qtfm-287342-11062646</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190106 老公斤斤计较，总发脾气怎么办？</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062646?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=f624ec902ea58914c43304314fb27db5" type="audio/mpeg" length="0" />
+      <itunes:duration>4590</itunes:duration>
     </item>
 
     <item>
-      <title>老丈人不赡养老人，还想霸占老人的土地</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182806/</link>
-      <guid isPermaLink="false">qtfm-288313-11182806</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>老丈人不赡养老人，还想霸占老人的土地</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182806?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=ffd6267da2ff8634ffc2c28891d5d8a1" type="audio/mpeg" length="0" />
-      <itunes:duration>454</itunes:duration>
+      <title>20190107 如何应对前任的死缠烂打</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062651/</link>
+      <guid isPermaLink="false">qtfm-287342-11062651</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190107 如何应对前任的死缠烂打</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062651?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=68decb3aedcb0b2c12f2f2630a40d4d6" type="audio/mpeg" length="0" />
+      <itunes:duration>4519</itunes:duration>
     </item>
 
     <item>
-      <title>因为阻止老公喝酒，夫妻冷战不断</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182840/</link>
-      <guid isPermaLink="false">qtfm-288313-11182840</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>因为阻止老公喝酒，夫妻冷战不断</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182840?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=afa7575f1aaa2c5a38d482425b04de36" type="audio/mpeg" length="0" />
-      <itunes:duration>489</itunes:duration>
+      <title>20190108 女子以身相许，开口要天价彩礼</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062686/</link>
+      <guid isPermaLink="false">qtfm-287342-11062686</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190108 女子以身相许，开口要天价彩礼</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062686?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=a74bbbe39438f02fb3f6995c9232acf5" type="audio/mpeg" length="0" />
+      <itunes:duration>4532</itunes:duration>
     </item>
 
     <item>
-      <title>大龄剩女的真实心声</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182784/</link>
-      <guid isPermaLink="false">qtfm-288313-11182784</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>大龄剩女的真实心声</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182784?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=ae4b3593dfc20c159227f6dac8d59253" type="audio/mpeg" length="0" />
-      <itunes:duration>543</itunes:duration>
+      <title>20190114 丈夫怀疑妻子出轨大打出手</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062687/</link>
+      <guid isPermaLink="false">qtfm-287342-11062687</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190114 丈夫怀疑妻子出轨大打出手</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062687?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=6aaf30f9100f0a216b4103b3f98bd66b" type="audio/mpeg" length="0" />
+      <itunes:duration>4171</itunes:duration>
     </item>
 
     <item>
-      <title>老公太吝啬该如何相处</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11182824/</link>
-      <guid isPermaLink="false">qtfm-288313-11182824</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>老公太吝啬该如何相处</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11182824?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=20413590cdc070a7c2650faa0461ac2f" type="audio/mpeg" length="0" />
-      <itunes:duration>684</itunes:duration>
+      <title>20190115 儿子酒后无德，儿媳苦不堪言闹离婚</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062689/</link>
+      <guid isPermaLink="false">qtfm-287342-11062689</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190115 儿子酒后无德，儿媳苦不堪言闹离婚</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062689?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=d65397709ccfed96eba400483f7a608a" type="audio/mpeg" length="0" />
+      <itunes:duration>4012</itunes:duration>
     </item>
 
     <item>
-      <title>高中生如何摆脱失恋的阴影</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/12610713/</link>
-      <guid isPermaLink="false">qtfm-288313-12610713</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>高中生如何摆脱失恋的阴影</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/12610713?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=7b9074006a1c326c9380b1bcf4d926fd" type="audio/mpeg" length="0" />
-      <itunes:duration>570</itunes:duration>
+      <title>20190116 老公忍不住给前女友打钱</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062690/</link>
+      <guid isPermaLink="false">qtfm-287342-11062690</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190116 老公忍不住给前女友打钱</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062690?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=91e269b0f3fb9a3610caf58ddaf184ea" type="audio/mpeg" length="0" />
+      <itunes:duration>4188</itunes:duration>
     </item>
 
     <item>
-      <title>解不开的“名校”梦</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11176393/</link>
-      <guid isPermaLink="false">qtfm-288313-11176393</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>解不开的“名校”梦</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11176393?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=940d0c385570fd33a9faff2af66b65d7" type="audio/mpeg" length="0" />
-      <itunes:duration>469</itunes:duration>
+      <title>20190117  前男友劈腿，我还是放不下</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062711/</link>
+      <guid isPermaLink="false">qtfm-287342-11062711</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190117  前男友劈腿，我还是放不下</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062711?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=3114418173b71408cd48a49811199797" type="audio/mpeg" length="0" />
+      <itunes:duration>4026</itunes:duration>
     </item>
 
     <item>
-      <title>儿子出轨，婆婆替儿媳鸣不平</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11228129/</link>
-      <guid isPermaLink="false">qtfm-288313-11228129</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>儿子出轨，婆婆替儿媳鸣不平</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11228129?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=29f610c0a9f4725e04137237883ed0bb" type="audio/mpeg" length="0" />
-      <itunes:duration>366</itunes:duration>
+      <title>20190118 深爱的女友不能怀孕，该继续交往吗？</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062713/</link>
+      <guid isPermaLink="false">qtfm-287342-11062713</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190118 深爱的女友不能怀孕，该继续交往吗？</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062713?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=8e7ca5169a767f6dd6bc5e69cc9998bb" type="audio/mpeg" length="0" />
+      <itunes:duration>3995</itunes:duration>
     </item>
 
     <item>
-      <title> 未婚先孕将要面临三大难题</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11228488/</link>
-      <guid isPermaLink="false">qtfm-288313-11228488</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description> 未婚先孕将要面临三大难题</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11228488?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=8b59b53b1a1e281e7fb639b1ad82ea5e" type="audio/mpeg" length="0" />
-      <itunes:duration>525</itunes:duration>
+      <title>20190121 公婆太溺爱孩子怎么办</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062715/</link>
+      <guid isPermaLink="false">qtfm-287342-11062715</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190121 公婆太溺爱孩子怎么办</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062715?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=7a61be508017b47e671e39f83a937248" type="audio/mpeg" length="0" />
+      <itunes:duration>4223</itunes:duration>
     </item>
 
     <item>
-      <title>课外班过多，对孩子是补充还是负担</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11289310/</link>
-      <guid isPermaLink="false">qtfm-288313-11289310</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>课外班过多，对孩子是补充还是负担</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11289310?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=90a23680880f473fc47b86ea73c133c4" type="audio/mpeg" length="0" />
-      <itunes:duration>336</itunes:duration>
+      <title>20190122 二婚老公总给前子女抚养费</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062719/</link>
+      <guid isPermaLink="false">qtfm-287342-11062719</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190122 二婚老公总给前子女抚养费</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062719?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=3ff26cbc82c862629188284547617b0b" type="audio/mpeg" length="0" />
+      <itunes:duration>4175</itunes:duration>
     </item>
 
     <item>
-      <title>无意发现孩子和男同学有亲密接触</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11289311/</link>
-      <guid isPermaLink="false">qtfm-288313-11289311</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>无意发现孩子和男同学有亲密接触</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11289311?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=7641dc1ae265fe23c319ad9ff779b2b9" type="audio/mpeg" length="0" />
-      <itunes:duration>517</itunes:duration>
+      <title>20190123 老公总是早出晚归，我越来越没有安全感</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062723/</link>
+      <guid isPermaLink="false">qtfm-287342-11062723</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190123 老公总是早出晚归，我越来越没有安全感</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062723?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=80c9a0425d3358d2da626d074fac90f0" type="audio/mpeg" length="0" />
+      <itunes:duration>4011</itunes:duration>
     </item>
 
     <item>
-      <title>夫妻冷战一周，日子越过越累</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11289312/</link>
-      <guid isPermaLink="false">qtfm-288313-11289312</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>夫妻冷战一周，日子越过越累</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11289312?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=5d98d1ff345f613c1dbe4ffddb6c6684" type="audio/mpeg" length="0" />
-      <itunes:duration>657</itunes:duration>
+      <title>20190124  女儿执意要和二婚男交往</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062737/</link>
+      <guid isPermaLink="false">qtfm-287342-11062737</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190124  女儿执意要和二婚男交往</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062737?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=f69d6ca0bfb632cd1e17f35062482299" type="audio/mpeg" length="0" />
+      <itunes:duration>4193</itunes:duration>
     </item>
 
     <item>
-      <title>热恋期遭母亲强烈反对</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11318507/</link>
-      <guid isPermaLink="false">qtfm-288313-11318507</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>热恋期遭母亲强烈反对</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11318507?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=108be18d986d278be0ac0c624a28c916" type="audio/mpeg" length="0" />
-      <itunes:duration>567</itunes:duration>
+      <title>20190125 不被父母看好的婚姻，到底能走多远</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062753/</link>
+      <guid isPermaLink="false">qtfm-287342-11062753</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190125 不被父母看好的婚姻，到底能走多远</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062753?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=881e389713cab3d40bc7289dd13f2241" type="audio/mpeg" length="0" />
+      <itunes:duration>3754</itunes:duration>
     </item>
 
     <item>
-      <title> 离婚没离家惹人“弃”</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11318508/</link>
-      <guid isPermaLink="false">qtfm-288313-11318508</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description> 离婚没离家惹人“弃”</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11318508?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=5b3d25426913552e0a8c77fff9195a9a" type="audio/mpeg" length="0" />
-      <itunes:duration>455</itunes:duration>
+      <title>20190128 家庭的重担一人挑</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062777/</link>
+      <guid isPermaLink="false">qtfm-287342-11062777</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190128 家庭的重担一人挑</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062777?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=5dcc9358e07dbabe5cc1ed0c5eb0d642" type="audio/mpeg" length="0" />
+      <itunes:duration>4277</itunes:duration>
     </item>
 
     <item>
-      <title>孩子早恋，家长该如何引导</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11337056/</link>
-      <guid isPermaLink="false">qtfm-288313-11337056</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>孩子早恋，家长该如何引导</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11337056?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=9b8a9c259b5cbfd5d0de96df2f2be9ea" type="audio/mpeg" length="0" />
-      <itunes:duration>454</itunes:duration>
+      <title>20190129 母女关系不和，到底谁的错</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062799/</link>
+      <guid isPermaLink="false">qtfm-287342-11062799</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190129 母女关系不和，到底谁的错</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062799?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=3e3904f84c25ca36537d5e0013d11330" type="audio/mpeg" length="0" />
+      <itunes:duration>4454</itunes:duration>
     </item>
 
     <item>
-      <title> 丈夫不上进还爱喝酒，妻子独撑家门</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11337057/</link>
-      <guid isPermaLink="false">qtfm-288313-11337057</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description> 丈夫不上进还爱喝酒，妻子独撑家门</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11337057?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=ca8cca8b0825dc726cb689e57e3b77c4" type="audio/mpeg" length="0" />
-      <itunes:duration>652</itunes:duration>
+      <title>20190130 有妇之夫疯狂示爱</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062804/</link>
+      <guid isPermaLink="false">qtfm-287342-11062804</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190130 有妇之夫疯狂示爱</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062804?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=6f70c38a9877a13b63c3bc3db63d8f2a" type="audio/mpeg" length="0" />
+      <itunes:duration>4539</itunes:duration>
     </item>
 
     <item>
-      <title>刚入行不久，工作越来越吃力</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11337059/</link>
-      <guid isPermaLink="false">qtfm-288313-11337059</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>刚入行不久，工作越来越吃力</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11337059?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=57fdb0758b79ee58665a0aaf0e0d83df" type="audio/mpeg" length="0" />
-      <itunes:duration>514</itunes:duration>
+      <title>20190131 老公不舍得为我花钱怎么办</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062807/</link>
+      <guid isPermaLink="false">qtfm-287342-11062807</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190131 老公不舍得为我花钱怎么办</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062807?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=53abf6a06a37f1d7ee50109630e98ef7" type="audio/mpeg" length="0" />
+      <itunes:duration>4188</itunes:duration>
     </item>
 
     <item>
-      <title>女友总是寻找初恋的感觉，我该如何满足</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11372325/</link>
-      <guid isPermaLink="false">qtfm-288313-11372325</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>女友总是寻找初恋的感觉，我该如何满足</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11372325?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=ff351363ca40b91c56a3574ab05931fc" type="audio/mpeg" length="0" />
-      <itunes:duration>449</itunes:duration>
+      <title>20190201 已经破裂的婚姻，该不该为了孩子复婚</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062812/</link>
+      <guid isPermaLink="false">qtfm-287342-11062812</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190201 已经破裂的婚姻，该不该为了孩子复婚</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062812?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=94c61708ca06dd044029fa6a157c514e" type="audio/mpeg" length="0" />
+      <itunes:duration>4610</itunes:duration>
     </item>
 
     <item>
-      <title> 妻子被打后立案，不料伤了夫妻感情</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11372326/</link>
-      <guid isPermaLink="false">qtfm-288313-11372326</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description> 妻子被打后立案，不料伤了夫妻感情</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11372326?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=1e905d6821c6d9f75aae0e15a0c83dd4" type="audio/mpeg" length="0" />
-      <itunes:duration>525</itunes:duration>
+      <title>20190211 大龄剩男遭遇恋爱危机</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062835/</link>
+      <guid isPermaLink="false">qtfm-287342-11062835</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190211 大龄剩男遭遇恋爱危机</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062835?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=e982d954458221d8f843dd7addabdbd0" type="audio/mpeg" length="0" />
+      <itunes:duration>4652</itunes:duration>
     </item>
 
     <item>
-      <title>六年爱情长跑，被女方嫌弃家里穷</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11396258/</link>
-      <guid isPermaLink="false">qtfm-288313-11396258</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>六年爱情长跑，被女方嫌弃家里穷</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11396258?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=1c325e486c3366b17e21f20a7a9d591c" type="audio/mpeg" length="0" />
-      <itunes:duration>316</itunes:duration>
+      <title>20190214 老公出轨，暧昧录音让我崩溃</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062845/</link>
+      <guid isPermaLink="false">qtfm-287342-11062845</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190214 老公出轨，暧昧录音让我崩溃</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062845?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=a2b8e837748ad59b25e313038482ff6c" type="audio/mpeg" length="0" />
+      <itunes:duration>4578</itunes:duration>
     </item>
 
     <item>
-      <title>黄金剩女恋爱难</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11396259/</link>
-      <guid isPermaLink="false">qtfm-288313-11396259</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>黄金剩女恋爱难</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11396259?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=7315a429f78ebea2384888d3299c47ec" type="audio/mpeg" length="0" />
-      <itunes:duration>576</itunes:duration>
+      <title>20190215 女子一怒之下赶走合租男友</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062846/</link>
+      <guid isPermaLink="false">qtfm-287342-11062846</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190215 女子一怒之下赶走合租男友</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062846?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=d7fd52be6982658134aedb83b9e39b51" type="audio/mpeg" length="0" />
+      <itunes:duration>4479</itunes:duration>
     </item>
 
     <item>
-      <title>该不该找一份父母眼中的稳定工作</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11410647/</link>
-      <guid isPermaLink="false">qtfm-288313-11410647</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>该不该找一份父母眼中的稳定工作</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11410647?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=53600b500951933f86177048f39bb1a4" type="audio/mpeg" length="0" />
-      <itunes:duration>518</itunes:duration>
+      <title>20190218 女友是不婚主义，该继续交往吗</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062851/</link>
+      <guid isPermaLink="false">qtfm-287342-11062851</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190218 女友是不婚主义，该继续交往吗</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062851?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=7b7a727c7c1b4334d66879e780e2f00b" type="audio/mpeg" length="0" />
+      <itunes:duration>4479</itunes:duration>
     </item>
 
     <item>
-      <title>老公出轨，天天和情妇住在一起</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11426870/</link>
-      <guid isPermaLink="false">qtfm-288313-11426870</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>老公出轨，天天和情妇住在一起</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11426870?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=174c5f907f82526ddca4fd4eda449d1e" type="audio/mpeg" length="0" />
-      <itunes:duration>463</itunes:duration>
+      <title>20190219 老公深夜被女同事“勾引”</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062853/</link>
+      <guid isPermaLink="false">qtfm-287342-11062853</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190219 老公深夜被女同事“勾引”</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062853?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=244a06c67e9d3f668f33bec9e061e473" type="audio/mpeg" length="0" />
+      <itunes:duration>4641</itunes:duration>
     </item>
 
     <item>
-      <title>媳妇沉迷“直播”，丈夫想离离不起</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11426871/</link>
-      <guid isPermaLink="false">qtfm-288313-11426871</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>媳妇沉迷“直播”，丈夫想离离不起</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11426871?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=decabf8e4f9357cafdfc4cf01428af0e" type="audio/mpeg" length="0" />
-      <itunes:duration>546</itunes:duration>
+      <title>20190220 婚后遇到了“两情相悦”的人怎么办</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062854/</link>
+      <guid isPermaLink="false">qtfm-287342-11062854</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190220 婚后遇到了“两情相悦”的人怎么办</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062854?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=19531a098302270af92926c55f4d9136" type="audio/mpeg" length="0" />
+      <itunes:duration>4587</itunes:duration>
     </item>
 
     <item>
-      <title>交往3个月，女方家长反对该继续交往吗</title>
-      <link>https://www.qtfm.cn/channels/288313/programs/11439116/</link>
-      <guid isPermaLink="false">qtfm-288313-11439116</guid>
-      <pubDate>Thu, 04 Jun 2026 02:46:49 -0000</pubDate>
-      <description>交往3个月，女方家长反对该继续交往吗</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/288313/11439116?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780541209328&amp;sign=ce8550918f04c43c283fb8ae9a4233ab" type="audio/mpeg" length="0" />
-      <itunes:duration>434</itunes:duration>
+      <title>20190221 80后小夫妻为工资卡闹离婚</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/11062855/</link>
+      <guid isPermaLink="false">qtfm-287342-11062855</guid>
+      <pubDate>Thu, 04 Jun 2026 05:16:43 -0000</pubDate>
+      <description>20190221 80后小夫妻为工资卡闹离婚</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/11062855?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1780550203436&amp;sign=2694274c8535ae707bc1686c77d8503a" type="audio/mpeg" length="0" />
+      <itunes:duration>4540</itunes:duration>
     </item>
 
   </channel>
