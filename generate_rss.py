@@ -5,14 +5,15 @@ import hashlib
 import requests
 from email.utils import formatdate
 from xml.sax.saxutils import escape
+from html import unescape
 
 CHANNEL_ID = "287342"
 CHANNEL_URL = f"https://www.qtfm.cn/channels/{CHANNEL_ID}/"
 OUTPUT_FILE = "podcast.xml"
 
-FEED_TITLE = "晓声长谈（蜻蜓FM频道287342）"
+FEED_TITLE = "《晓声长谈》持续更"
 FEED_LINK = CHANNEL_URL
-FEED_DESCRIPTION = "《晓声长谈》栏目是吉林新闻综合广播2008年7月创办的一档情感服务类栏目,节目的内容是“婚姻、家庭、情感”主持人钟晓用“唠实嗑”的方式为广大群众指点迷津，节目的口号是“和谐情感、和谐家庭、和谐生活” 蜻蜓FM频道287342自动生成 RSS 订阅源，仅用于个人订阅收听。"
+FEED_DESCRIPTION = "根据蜻蜓FM“《晓声长谈》持续更新”频道自动生成 RSS 订阅源，仅用于个人订阅收听。"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -20,35 +21,11 @@ HEADERS = {
 }
 
 
-def get_version():
-    r = requests.get(CHANNEL_URL, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-
-    patterns = [
-        r'"version"\s*:\s*"([^"]+)"',
-        r'programs/([^/?"]+)\?curpage',
-        r'programs/([A-Za-z0-9_=-]+)',
-    ]
-
-    for p in patterns:
-        m = re.search(p, r.text)
-        if m:
-            return m.group(1)
-
-    raise RuntimeError("没有从页面中找到 version，可能是蜻蜓 FM 页面结构变化。")
-
-
-def get_programs(version, page=1, pagesize=30):
-    url = (
-        f"https://i.qingting.fm/capi/channel/{CHANNEL_ID}/programs/{version}"
-        f"?curpage={page}&pagesize={pagesize}&order=desc"
-    )
-
-    r = requests.get(url, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-
-    data = r.json()
-    return data.get("data", {}).get("programs", [])
+def clean_html(text):
+    text = re.sub(r"<[^>]+>", "", text)
+    text = unescape(text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
 
 
 def make_audio_url(program_id):
@@ -78,16 +55,62 @@ def safe_text(value):
     return escape(str(value))
 
 
-def program_pubdate(program):
-    for key in ["update_time", "created_time", "publish_time", "ctime"]:
-        value = program.get(key)
+def get_programs_from_channel_page():
+    r = requests.get(CHANNEL_URL, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    html_text = r.text
 
-        if isinstance(value, int):
-            if value > 10_000_000_000:
-                value = value / 1000
-            return formatdate(value, localtime=False)
+    pattern = re.compile(
+        rf'<a[^>]+href="(/channels/{CHANNEL_ID}/programs/(\d+)/?)"[^>]*>(.*?)</a>',
+        re.S,
+    )
 
-    return formatdate(time.time(), localtime=False)
+    programs = []
+    seen = set()
+
+    for match in pattern.finditer(html_text):
+        href, program_id, raw_title = match.groups()
+
+        if program_id in seen:
+            continue
+        seen.add(program_id)
+
+        title = clean_html(raw_title)
+
+        if not title:
+            continue
+
+        # 在链接后面的一小段 HTML 里找时长和日期
+        tail = html_text[match.end(): match.end() + 500]
+
+        duration_match = re.search(r"(\d{1,2}:\d{2}(?::\d{2})?)", clean_html(tail))
+        date_match = re.search(r"(\d{4}-\d{2}-\d{2})", clean_html(tail))
+
+        duration = duration_match.group(1) if duration_match else ""
+        date_text = date_match.group(1) if date_match else ""
+
+        if date_text:
+            try:
+                year, month, day = map(int, date_text.split("-"))
+                pub_ts = time.mktime((year, month, day, 0, 0, 0, 0, 0, -1))
+                pub_date = formatdate(pub_ts, localtime=False)
+            except Exception:
+                pub_date = formatdate(time.time(), localtime=False)
+        else:
+            pub_date = formatdate(time.time(), localtime=False)
+
+        programs.append({
+            "id": program_id,
+            "title": title,
+            "duration": duration,
+            "pubDate": pub_date,
+            "program_url": f"https://www.qtfm.cn{href if href.endswith('/') else href + '/'}",
+        })
+
+    if not programs:
+        raise RuntimeError("没有从频道网页中解析到节目列表，可能是蜻蜓 FM 页面结构变化。")
+
+    return programs[:30]
 
 
 def build_rss(programs):
@@ -96,16 +119,13 @@ def build_rss(programs):
     items = []
 
     for p in programs:
-        program_id = p.get("id") or p.get("program_id")
-        if not program_id:
-            continue
-
-        title = p.get("title", f"节目 {program_id}")
-        desc = p.get("desc") or p.get("description") or title
-        duration = p.get("duration") or p.get("duration_str") or ""
-        program_url = f"https://www.qtfm.cn/channels/{CHANNEL_ID}/programs/{program_id}/"
+        program_id = p["id"]
+        title = p["title"]
+        desc = title
+        duration = p.get("duration", "")
+        program_url = p["program_url"]
         audio_url = make_audio_url(program_id)
-        pubdate = program_pubdate(p)
+        pubdate = p["pubDate"]
 
         item = f"""
     <item>
@@ -114,7 +134,7 @@ def build_rss(programs):
       <guid isPermaLink="false">qtfm-{CHANNEL_ID}-{safe_text(program_id)}</guid>
       <pubDate>{safe_text(pubdate)}</pubDate>
       <description>{safe_text(desc)}</description>
-      <enclosure url="{safe_text(audio_url)}" type="audio/mpeg" length="0" />
+      <enclosure url="{safe_text(audio_url)}" type="audio/mpeg" length="1" />
       <itunes:duration>{safe_text(duration)}</itunes:duration>
     </item>
 """
@@ -142,11 +162,7 @@ def build_rss(programs):
 
 
 def main():
-    version = get_version()
-    programs = get_programs(version, page=1, pagesize=30)
-
-    if not programs:
-        raise RuntimeError("没有获取到节目列表。")
+    programs = get_programs_from_channel_page()
 
     rss = build_rss(programs)
 
@@ -154,6 +170,9 @@ def main():
         f.write(rss)
 
     print(f"已生成 {OUTPUT_FILE}，节目数量：{len(programs)}")
+    print("前 5 个节目：")
+    for p in programs[:5]:
+        print("-", p["title"])
 
 
 if __name__ == "__main__":
