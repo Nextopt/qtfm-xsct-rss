@@ -7,7 +7,7 @@
     <link>https://www.qtfm.cn/channels/287342/</link>
     <description>根据蜻蜓FM “《晓声长谈》持续更新” 频道自动生成 RSS 订阅源，仅用于个人订阅收听。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:14:37 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:38:20 -0000</lastBuildDate>
     <ttl>15</ttl>
     <itunes:author>蜻蜓 FM</itunes:author>
     <itunes:image href="https://upload-up.qtfm.cn/user/27279bada6117c48eaf08223b173aa28/1670412425_0001-1044643275.png" />
@@ -20,12 +20,32 @@
     <itunes:explicit>false</itunes:explicit>
 
     <item>
+      <title>2026 0730 二婚女孩主动来提亲，37岁的我犹豫了......</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/34093315/</link>
+      <guid isPermaLink="false">qtfm-287342-34093315</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 -0000</pubDate>
+      <description>2026 0730 二婚女孩主动来提亲，37岁的我犹豫了......</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/34093315?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=31ef90bf2c7f70a6d5bd9fe65773717b" type="audio/mpeg" length="1" />
+      <itunes:duration>51:10</itunes:duration>
+    </item>
+
+    <item>
+      <title>2026 0728 我从“第三者”变“备胎”，她为什么还不和我领证？</title>
+      <link>https://www.qtfm.cn/channels/287342/programs/34093312/</link>
+      <guid isPermaLink="false">qtfm-287342-34093312</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 -0000</pubDate>
+      <description>2026 0728 我从“第三者”变“备胎”，她为什么还不和我领证？</description>
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/34093312?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=dcd70d60c5fbde8a9fdc7829ddfb4b5a" type="audio/mpeg" length="1" />
+      <itunes:duration>48:34</itunes:duration>
+    </item>
+
+    <item>
       <title>2026 0724 异地丈夫点赞的文案，让我慌了！</title>
       <link>https://www.qtfm.cn/channels/287342/programs/33769998/</link>
       <guid isPermaLink="false">qtfm-287342-33769998</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0724 异地丈夫点赞的文案，让我慌了！</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33769998?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=c64b2454c6374737cf0d1eaaf2347619" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33769998?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=dc27f1edc69c8504f1aff647179f8861" type="audio/mpeg" length="1" />
       <itunes:duration>57:52</itunes:duration>
     </item>
 
@@ -35,7 +55,7 @@
       <guid isPermaLink="false">qtfm-287342-33769997</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0723 妻子迟来的爆发</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33769997?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=225a8c25bd58276bce6fef4755197884" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33769997?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=e6f26ec46b133c2616f261a57a418373" type="audio/mpeg" length="1" />
       <itunes:duration>46:03</itunes:duration>
     </item>
 
@@ -45,7 +65,7 @@
       <guid isPermaLink="false">qtfm-287342-33683284</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0722 前女友二婚带娃，广撒网找“接盘大侠”</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33683284?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=0e874d4ce862748f54e6cc85e46154cc" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33683284?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=83b24bfe97a1a4299c10ca65c60f4f51" type="audio/mpeg" length="1" />
       <itunes:duration>43:31</itunes:duration>
     </item>
 
@@ -55,7 +75,7 @@
       <guid isPermaLink="false">qtfm-287342-33680374</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0721 150万贷款，成了女儿婚前的第一道坎</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33680374?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=a1007aee1d6a97c72cdd5aef69faabfb" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33680374?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=fba7dfdd40bf64922eeb8bc3d7d746c6" type="audio/mpeg" length="1" />
       <itunes:duration>48:59</itunes:duration>
     </item>
 
@@ -65,7 +85,7 @@
       <guid isPermaLink="false">qtfm-287342-33665072</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0720 结婚7年，我的婚姻输给了“美食”</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33665072?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=0f27a990940a97c983d6c7d23c92a87e" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33665072?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=54e9bc22194842684e546427c176f61a" type="audio/mpeg" length="1" />
       <itunes:duration>47:30</itunes:duration>
     </item>
 
@@ -75,7 +95,7 @@
       <guid isPermaLink="false">qtfm-287342-33641718</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0717 因为“穷”，7年女友成了前女友</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33641718?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=45b289ea471fac724061dc74af81a366" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33641718?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=6aae7284ba8bcf234b5e553e1290de96" type="audio/mpeg" length="1" />
       <itunes:duration>45:27</itunes:duration>
     </item>
 
@@ -85,7 +105,7 @@
       <guid isPermaLink="false">qtfm-287342-33641717</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0716 二婚丈夫离世后，继女开始撵我走</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33641717?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=6a485777ecd457e707b67394a1d70374" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33641717?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=f7c2324fc87ad5c7c07918e6b2468009" type="audio/mpeg" length="1" />
       <itunes:duration>49:54</itunes:duration>
     </item>
 
@@ -95,7 +115,7 @@
       <guid isPermaLink="false">qtfm-287342-33579645</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0715 亲妈来带娃，却成了我的“家庭吐槽大会”</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33579645?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=9fbc3b4e85b3690caf1d1cc365c90821" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33579645?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=7bc293e780bde05634768ecdcdb5a5ff" type="audio/mpeg" length="1" />
       <itunes:duration>48:14</itunes:duration>
     </item>
 
@@ -105,7 +125,7 @@
       <guid isPermaLink="false">qtfm-287342-33570658</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0714 丈夫出轨“老女人”，让妻子更加自卑</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33570658?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=b9914a34a10f00ee660c5acfe4e4b212" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33570658?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=cfc15e1c7c3c0448b92c47296f323cef" type="audio/mpeg" length="1" />
       <itunes:duration>53:45</itunes:duration>
     </item>
 
@@ -115,7 +135,7 @@
       <guid isPermaLink="false">qtfm-287342-33564041</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0713 妻子在外挣钱，丈夫在家怄气</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33564041?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=403787c13e72f8bf9e84233c4e11ee64" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33564041?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=b4891a321608f6d092360ef8ed8780a3" type="audio/mpeg" length="1" />
       <itunes:duration>42:41</itunes:duration>
     </item>
 
@@ -125,7 +145,7 @@
       <guid isPermaLink="false">qtfm-287342-33558787</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0710 婆媳矛盾的根源，其实是“他”！</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33558787?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=ec619ed6cd73e9d5475be63fd0407409" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33558787?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=fabe1d0c1adabacdde7deaa0766fcc20" type="audio/mpeg" length="1" />
       <itunes:duration>43:25</itunes:duration>
     </item>
 
@@ -135,7 +155,7 @@
       <guid isPermaLink="false">qtfm-287342-33558785</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0709 大伯哥不义，别怪弟媳无情</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33558785?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=5147db53fff3ffd29665f56971713a4d" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33558785?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=84860273b4ff1133417f4fc8bfb3ee85" type="audio/mpeg" length="1" />
       <itunes:duration>49:28</itunes:duration>
     </item>
 
@@ -145,7 +165,7 @@
       <guid isPermaLink="false">qtfm-287342-33541685</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0708 37岁未婚“宅男”注定单身吗？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33541685?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=67dce771d1a5309e655b78480324db33" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33541685?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=54b18f6a9d26f82752bfa5aa352de028" type="audio/mpeg" length="1" />
       <itunes:duration>48:48</itunes:duration>
     </item>
 
@@ -155,7 +175,7 @@
       <guid isPermaLink="false">qtfm-287342-33541686</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0707 恋爱1个月想同居，博士男有点慌</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33541686?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=2ed5086e7dff51fc6513ea3edba124dc" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33541686?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=25c85176a44ff18735729b78f88ca637" type="audio/mpeg" length="1" />
       <itunes:duration>51:11</itunes:duration>
     </item>
 
@@ -165,7 +185,7 @@
       <guid isPermaLink="false">qtfm-287342-33525307</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0706 丈夫一句话伤了她20年，至今未愈</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33525307?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=eb3a4d5d21cd27f3855756bc34a7458f" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33525307?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=1fc999deff7fc6bb9c146c0efb00541f" type="audio/mpeg" length="1" />
       <itunes:duration>47:17</itunes:duration>
     </item>
 
@@ -175,7 +195,7 @@
       <guid isPermaLink="false">qtfm-287342-33521530</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0703 26年家暴，谁才是真正的“受害者”？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33521530?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=c92da055a0be84f0664db28ef372501b" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33521530?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=e868360f1de38faa30b1afe49e438729" type="audio/mpeg" length="1" />
       <itunes:duration>51:05</itunes:duration>
     </item>
 
@@ -185,7 +205,7 @@
       <guid isPermaLink="false">qtfm-287342-33506605</guid>
       <pubDate>Fri, 03 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0702 丈夫行车记录仪里的“秘密”</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33506605?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=7e65fa1a133bfd44802dd1c50625ece8" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33506605?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=be958321ca41897622b13ab4ba79b82f" type="audio/mpeg" length="1" />
       <itunes:duration>46:56</itunes:duration>
     </item>
 
@@ -195,7 +215,7 @@
       <guid isPermaLink="false">qtfm-287342-33488155</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0701 丈夫车上的“金项链”到底是谁的？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33488155?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=7bb7147a8808f363eee2b2d303dbc9d2" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33488155?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=7c9023107c326e87f96ec8a210aa28e1" type="audio/mpeg" length="1" />
       <itunes:duration>43:47</itunes:duration>
     </item>
 
@@ -205,7 +225,7 @@
       <guid isPermaLink="false">qtfm-287342-33482614</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 -0000</pubDate>
       <description>2026 0630 黄昏恋的苦恼</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33482614?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=5950bffb5867167aa61bc8f1a1751801" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33482614?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=1d2004103521e28c11f07cf6a49d51eb" type="audio/mpeg" length="1" />
       <itunes:duration>51:38</itunes:duration>
     </item>
 
@@ -215,7 +235,7 @@
       <guid isPermaLink="false">qtfm-287342-33477954</guid>
       <pubDate>Tue, 30 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0629 出轨后主动坦白，丈夫更痛苦了</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33477954?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=7ec642b35541605d1a86bf61f2d5c0a0" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33477954?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=c64144e74379bf00bedeba734a390381" type="audio/mpeg" length="1" />
       <itunes:duration>57:02</itunes:duration>
     </item>
 
@@ -225,7 +245,7 @@
       <guid isPermaLink="false">qtfm-287342-33473666</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0626 同父异母的哥哥借钱不还，25万打水漂？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33473666?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877790&amp;sign=f96424fcfead6b6b37c34b06ce69859e" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33473666?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=ebdc881f499e0826350dc9a8aedf4d40" type="audio/mpeg" length="1" />
       <itunes:duration>46:17</itunes:duration>
     </item>
 
@@ -235,7 +255,7 @@
       <guid isPermaLink="false">qtfm-287342-33473665</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0625 照顾脑梗父亲，我陷入情绪黑洞怎么办？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33473665?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=76fcec0ecbf3ba74fcc65b3cc49e56fa" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33473665?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=472b84c871d2e76e25a65cce1643d905" type="audio/mpeg" length="1" />
       <itunes:duration>50:07</itunes:duration>
     </item>
 
@@ -245,7 +265,7 @@
       <guid isPermaLink="false">qtfm-287342-33452594</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0624 未婚先孕，比孩子先到的是后悔</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33452594?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=ede49e9096d3fa006a1dcd5e94cb2180" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33452594?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=18714a499426bfc3c5c46209699a71aa" type="audio/mpeg" length="1" />
       <itunes:duration>51:42</itunes:duration>
     </item>
 
@@ -255,7 +275,7 @@
       <guid isPermaLink="false">qtfm-287342-33443194</guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0623 少男少女短暂的热恋期</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33443194?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=b4b80869db00fcfeab7cc06f2a2f0031" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33443194?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=00f9b4db75d922a03d3b13dc405799d3" type="audio/mpeg" length="1" />
       <itunes:duration>47:31</itunes:duration>
     </item>
 
@@ -265,7 +285,7 @@
       <guid isPermaLink="false">qtfm-287342-33439175</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0622 母女间的“墙”，怎么推到？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33439175?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=c1a97ca985a3d530f8600e19b9cb756e" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33439175?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=e54fe7f37d994318d7324cfe9503b474" type="audio/mpeg" length="1" />
       <itunes:duration>52:59</itunes:duration>
     </item>
 
@@ -275,7 +295,7 @@
       <guid isPermaLink="false">qtfm-287342-33435458</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0618 他在异地出轨，我在月子流泪</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33435458?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=cd326ec26c4406691b5e504303f29a44" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33435458?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=e622e9d5f87f490e82cb12a2bd8ff72d" type="audio/mpeg" length="1" />
       <itunes:duration>46:22</itunes:duration>
     </item>
 
@@ -285,7 +305,7 @@
       <guid isPermaLink="false">qtfm-287342-33435457</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0617 高考前是国宝，考完后是杂草</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33435457?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=55a11cb3e34fb246bbe0b3621c7adf11" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33435457?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=1ef557d5a1c2ed8531544ecbd584f1f0" type="audio/mpeg" length="1" />
       <itunes:duration>44:53</itunes:duration>
     </item>
 
@@ -295,28 +315,8 @@
       <guid isPermaLink="false">qtfm-287342-33435456</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 -0000</pubDate>
       <description>2026 0616 照顾前任母亲多年，为何成了相亲“污点”？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33435456?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=7adc2ad60f689b47ca3157b25729d9d8" type="audio/mpeg" length="1" />
+      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33435456?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785901100246&amp;sign=56124e9e906e36520614c9bdc2635c4e" type="audio/mpeg" length="1" />
       <itunes:duration>49:22</itunes:duration>
-    </item>
-
-    <item>
-      <title>2026 0615 升学宴随礼起分歧，最后到底听谁的？</title>
-      <link>https://www.qtfm.cn/channels/287342/programs/33402232/</link>
-      <guid isPermaLink="false">qtfm-287342-33402232</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 -0000</pubDate>
-      <description>2026 0615 升学宴随礼起分歧，最后到底听谁的？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33402232?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=7cdcd74fb5e2d3c24770e6f748774b66" type="audio/mpeg" length="1" />
-      <itunes:duration>49:50</itunes:duration>
-    </item>
-
-    <item>
-      <title>2026 0612 搭伙5年不领证，钱AA，心态怎么摆？</title>
-      <link>https://www.qtfm.cn/channels/287342/programs/33402231/</link>
-      <guid isPermaLink="false">qtfm-287342-33402231</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 -0000</pubDate>
-      <description>2026 0612 搭伙5年不领证，钱AA，心态怎么摆？</description>
-      <enclosure url="https://audio.qtfm.cn/audiostream/redirect/287342/33402231?access_token=&amp;device_id=MOBILESITE&amp;qingting_id=&amp;t=1785888877791&amp;sign=79ba2aa71d77039e24695ecb7109cb62" type="audio/mpeg" length="1" />
-      <itunes:duration>49:19</itunes:duration>
     </item>
 
   </channel>
